@@ -2,7 +2,7 @@ Judul Proyek: Pencari Kata di Kamus
 
 Deskripsi:
 
-Program ini akan membaca sebuah file teks berisi daftar kata yang dipisahkan oleh baris baru, yang berperan sebagai kamus sederhana. Kemudian, program akan meminta pengguna untuk memasukkan kata yang ingin dicari. Program akan mencari kata tersebut dalam kamus menggunakan algoritma pencarian biner rekursif. Jika kata ditemukan, program akan menampilkan pesan "Kata ditemukan!". Jika tidak, program akan menampilkan pesan "Kata tidak ditemukan.".
+  Program ini akan membaca sebuah file teks berisi daftar kata yang dipisahkan oleh baris baru, yang berperan sebagai kamus sederhana. Kemudian, program akan meminta pengguna untuk memasukkan kata yang ingin dicari. Program akan mencari kata tersebut dalam kamus menggunakan algoritma pencarian biner rekursif. Jika kata ditemukan, program akan menampilkan pesan "Kata ditemukan!". Jika tidak, program akan menampilkan pesan "Kata tidak ditemukan.".
 
 Fitur:
 
